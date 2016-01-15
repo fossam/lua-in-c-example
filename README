@@ -1,0 +1,2 @@
+I rather not write C all the time.
+The example in this folder shows how to call lua script from a C program. Also you can set individual variables and call separately functions even when they are closures with upvalues.
